@@ -2,10 +2,14 @@
 
 This repository contains the submission of Group #18 for the 5th Assignment of the "Algorithmic Methods of Data Mining" course.
 
-## Team members
+## Group18: Team members
 
-Members of the Group 18:   
-- Simone Zagaria (nephrite28@gmail.com)
+| Name | Student ID | Email |
+|-----------|-----------|-----------|
+| Yousef kanj | 2113258 | kanj.2113258@studenti.uniroma1.it |
+| Simone Zagaria  | 2145389  | nephrite28@gmail.com |
+| Matteo Pazzini  | 1868953  | pazzini.1868953@studenti.uniroma1.it  |
+| Sai Swaroop Chittoor  | 1916247  | chittoor.1916247@studenti.uniroma1.it  |
 
 ## Project Structure
 
