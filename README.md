@@ -1,6 +1,8 @@
 # ADM-HW5: The eternal significance of publications and citations!
 
-This repository contains the submission of Group #18 for the 5th Assignment of the "Algorithmic Methods of Data Mining" course. The team is composed by:
+This repository contains the submission of Group #18 for the 5th Assignment of the "Algorithmic Methods of Data Mining" course.
+
+## Team members
 
 Members of the Group 18:   
 - Simone Zagaria (nephrite28@gmail.com)
