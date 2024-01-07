@@ -18,5 +18,5 @@ Here is an overview of the main files in this project repository:
 - `main.ipynb`: Jupyter notebook containing the codes and results for the first 2 questions of the homework and the Algorithmic Question(AQ).
 - `CLQ`: a folder containing the bash file with the code for the command-line question (CLQ), the graphml file used for this question and the corresponding output screenshot.
 - `first_10k_rows.csv`: csv file containing the top 10.000 papers by number of citations, used for constructing both the citation graph and the collaboration graph.
-- `Dropdown screenshots`: a folder showing screenshots of different functionalities in our frontend interface, as the interactive display doesn't appear on github.
+- `Dropdown screenshots`: a folder showing screenshots of different functionalities in our frontend interface, since the interactive display doesn't appear on github.
 - `README.md`: Markdown file with information about the project.
