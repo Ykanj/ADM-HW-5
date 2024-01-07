@@ -16,7 +16,6 @@ This repository contains the submission of Group #18 for the 5th Assignment of t
 Here is an overview of the main files in this project repository:
 
 - `HMW_Up.ipynb`: Jupyter notebook containing the codes and results for the first 2 questions of the homework.
-- `CommandLine.sh`: a bash file containing the code for the command-line question (CLQ).
-- `clq_output.png`: a screenshot of the output of the command-line question.
+- `CLQ`: a folder containing the bash file with the code for the command-line question (CLQ) and the corresponding output screenshot.
 - `README.md`: Markdown file with information about the project.
-- Dropdown screenshots: a folder showing different functionalities in our frontend interface, the interactive display doesn't appear on github so we opted to showing screenshots.
+- `Dropdown screenshots`: a folder showing screenshots of different functionalities in our frontend interface, as the interactive display doesn't appear on github.
