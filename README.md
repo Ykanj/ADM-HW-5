@@ -15,7 +15,9 @@ This repository contains the submission of Group #18 for the 5th Assignment of t
 
 Here is an overview of the main files in this project repository:
 
-- `main.ipynb`: Jupyter notebook containing the codes and results for the first 2 questions of the homework.
+- `main.ipynb`: Jupyter notebook containing the codes and results for the first 2 questions of the homework and the Algorithmic Question(AQ).
 - `CLQ`: a folder containing the bash file with the code for the command-line question (CLQ) and the corresponding output screenshot.
-- `README.md`: Markdown file with information about the project.
+- `first_10k_rows.csv`: csv file containing the top 10.000 papers by number of citations, used for constructing both the citation graph and the collaboration graph.
+- `citation_subgraph.graphml`: the graphml file used in the command-line question.
 - `Dropdown screenshots`: a folder showing screenshots of different functionalities in our frontend interface, as the interactive display doesn't appear on github.
+- `README.md`: Markdown file with information about the project.
